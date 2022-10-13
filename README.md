@@ -64,3 +64,5 @@ Pure CSS hover effect
 
 ![Working](./CSS_SAMPLE_13/image/CSS%20Hover%20effect%20and%2023%20more%20pages%20-%20Personal%20-%20Microsoft_%20Edge%202022-10-10%2017-03-16.gif)
 
+## sample_14
+![awesome_hover effect](https://user-images.githubusercontent.com/90460257/195505584-2820b8cc-b811-40a8-b195-c175e5c2d429.gif)
